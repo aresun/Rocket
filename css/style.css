@@ -12,6 +12,7 @@ body {
     line-height: 30px;
     margin-top: 300px;
     font-size: 0;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
 #rocketsList>a{
     font-size: 12px;
