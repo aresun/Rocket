@@ -23,6 +23,7 @@ body {
     background-color: rgb(0, 225, 255);
     color: #ff0062;
     border-radius: 6px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
 #rocketsList>a:not(:nth-child(6n+1)){
     margin-left: 10px;
