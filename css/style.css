@@ -8,7 +8,6 @@ body {
 }
 #rocketsList {
     display: inline-block;
-    width: 950px;
     height: 60px;
     line-height: 30px;
     margin-top: 300px;
